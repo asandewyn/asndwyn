@@ -1,0 +1,24 @@
+{
+"products":[
+{"id":1,"name":"Tiger snake","category":"Puce"},
+{"id":2,"name":"Hyena, spotted","category":"Goldenrod"},
+{"id":3,"name":"Red-knobbed coot","category":"Pink"},
+{"id":4,"name":"Bird, red-billed tropic","category":"Red"},
+{"id":5,"name":"White-throated monitor","category":"Green"},
+{"id":6,"name":"Black curlew","category":"Maroon"},
+{"id":7,"name":"Sun gazer","category":"Pink"},
+{"id":8,"name":"African elephant","category":"Blue"},
+{"id":9,"name":"Southern lapwing","category":"Khaki"},
+{"id":10,"name":"African black crake","category":"Violet"},
+{"id":11,"name":"Bengal vulture","category":"Crimson"},
+{"id":12,"name":"Vulture, bengal","category":"Aquamarine"},
+{"id":13,"name":"Pied cormorant","category":"Aquamarine"},
+{"id":14,"name":"Oystercatcher, blackish","category":"Purple"},
+{"id":15,"name":"Sandgrouse, yellow-throated","category":"Turquoise"},
+{"id":16,"name":"Black-capped chickadee","category":"Green"},
+{"id":17,"name":"Butterfly, canadian tiger swallowtail","category":"Mauv"},
+{"id":18,"name":"Great white pelican","category":"Turquoise"},
+{"id":19,"name":"Magistrate black colobus","category":"Crimson"},
+{"id":20,"name":"Adouri (unidentified)","category":"Khaki"}
+]
+}
